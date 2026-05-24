@@ -42,5 +42,9 @@ fp-info-cache
 # restore backups
 **/_restore_backup_*
 
+# production zip file
+
+*production.zip
+
 # Local project settings
 *.kicad_prl
